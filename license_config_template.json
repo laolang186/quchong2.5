@@ -1,0 +1,38 @@
+{
+    "latest_version": "2.5 企业版",
+    "force_update": false,
+    "update_url": "",
+    "notice": "远程授权中心正常。",
+    "accounts": {
+        "laoalng88": {
+            "password": "123a321a",
+            "expire": "2099-12-31",
+            "status": "active",
+            "role": "admin"
+        },
+        "ll122": {
+            "password": "ll123456",
+            "expire": "2026-07-11",
+            "status": "active",
+            "role": "user"
+        },
+        "ll133": {
+            "password": "ll123456",
+            "expire": "2026-07-11",
+            "status": "active",
+            "role": "user"
+        },
+        "ll144": {
+            "password": "ll123456",
+            "expire": "2026-07-11",
+            "status": "active",
+            "role": "user"
+        },
+        "ll155": {
+            "password": "ll123456",
+            "expire": "2026-07-11",
+            "status": "active",
+            "role": "user"
+        }
+    }
+}
